@@ -1,0 +1,11 @@
+.filter {
+    box-sizing: border-box;
+    border: none;
+    user-select: none;
+    cursor: pointer;
+    outline: none;
+}
+
+.filter_active {
+    cursor: default;
+}
